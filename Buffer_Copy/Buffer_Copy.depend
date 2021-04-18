@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1568041832 source:f:\learning\c\buffer_copy\buffer_copy\main.c
+	<stdio.h>
+	<sys/time.h>
+	"buffer.h"
+	<unistd.h>
+	<windows.h>
+
+1568039825 f:\learning\c\buffer_copy\buffer_copy\buffer.h
+
